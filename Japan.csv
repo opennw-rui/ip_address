@@ -1,2 +1,2 @@
-# prefix,country_code,region_code,city,postal
-45.192.176.0/24,JP,Tokyo,Tokyo,100-0000
+# prefix,country_code,region_code,city,
+45.192.176.0/24,JP,Tokyo,Tokyo,
